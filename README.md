@@ -1,16 +1,18 @@
-## Hi there 👋
+![Hi,](https://github.com/user-attachments/assets/858dc22a-2de2-42a8-9d4e-eba1928bd341)
 
-<!--
-**3-du4rd4/3-du4rd4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+<!-- - 🌱 I’m a Second year Computer Science Student at Federal University of Piaui ... -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/maria-eduarda-mendes-b6b0561b6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+    <img src="https://img.shields.io/badge/LinkedIn-pink?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
+<br>
+
+![Eduarda's GitHub stats](https://github-readme-stats.vercel.app/api?username=3-du4rd4&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3-du4rd4&theme=radical&layout=compact) 
