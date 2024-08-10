@@ -1,18 +1,24 @@
 ![Hi,](https://github.com/user-attachments/assets/858dc22a-2de2-42a8-9d4e-eba1928bd341)
 
-<br>
+## About me 
+- 🌱 I’m a Second year Computer Science Student at Federal University of Piaui
 
-<!-- - 🌱 I’m a Second year Computer Science Student at Federal University of Piaui ... -->
-
-<br>
-
-<div id="badges">
-  <a href="https://www.linkedin.com/in/maria-eduarda-mendes-b6b0561b6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-    <img src="https://img.shields.io/badge/LinkedIn-pink?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
-<br>
+## Conect with me!
+
+<div id="badges">
+    <a href="www.linkedin.com/in/maria-eduarda-mendes-b6b0561b6" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href = "mailto:dudaa.mendes1502@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://instagram.com/dudaa.mendes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
+
+##
 
 ![Eduarda's GitHub stats](https://github-readme-stats.vercel.app/api?username=3-du4rd4&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3-du4rd4&theme=radical&layout=compact) 
